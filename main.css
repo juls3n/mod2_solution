@@ -46,14 +46,14 @@
     background: #FFCC66;
 }
 
-@media(min-width: 1200px){
+@media(min-width: 992px){
 .col_lg4{
     float: left;
     width: 33.33%;
 }
 }
 
-@media (min-width: 950px) and (max-width: 1199px){
+@media (min-width: 768px) and (max-width: 991px){
     .col_md6{
         float: left;
     } 
